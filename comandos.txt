@@ -1,0 +1,6 @@
+yarn add sequelize
+yarn add @types/validator
+yarn add mysql2
+
+
+
